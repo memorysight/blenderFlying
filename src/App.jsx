@@ -35,7 +35,6 @@ function App() {
         shadow-camera-left={-6.2}
         shadow-camera-right={6.4}
       />
-
       <EffectComposer>
         <MotionBlur />
         <HueSaturation
